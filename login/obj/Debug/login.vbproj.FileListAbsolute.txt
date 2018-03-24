@@ -1,0 +1,42 @@
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\bin\Debug\login.exe.config
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\bin\Debug\login.exe
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\bin\Debug\login.pdb
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\bin\Debug\login.xml
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.vbprojResolveAssemblyReference.cache
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.Resources.resources
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.vbproj.GenerateResource.Cache
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.exe
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.xml
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.pdb
+C:\Users\Birendra Sapkota\AppData\Local\Temporary Projects\login\obj\Debug\login.loginform.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.loginform.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Resources.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.exe
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.xml
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.pdb
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\bin\Debug\login.exe.config
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\bin\Debug\login.exe
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\bin\Debug\login.pdb
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\bin\Debug\login.xml
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Admin.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Chef.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.SplashScreen.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.forgetpassword.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Accountantvb.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AdminCheckUserRequest.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AdminheckReport.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AdminInventoryManagement.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AdminManageUser.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.ChefCheckOrder.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.ChefInventoryManagement.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AccountantSalary.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.AddUser.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.updateUser.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.UserList.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.vbprojResolveAssemblyReference.cache
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Salary.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.adminTransaction.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Pop_Up_Dialog.resources
+C:\Users\Birendra Sapkota\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.InventoryManagement.resources
